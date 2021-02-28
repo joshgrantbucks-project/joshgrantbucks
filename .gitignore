@@ -1,7 +1,7 @@
 src/*.exe
-src/litecoin
-src/litecoind
-src/test_litecoin
+src/joshgrantbucks
+src/joshgrantbucksd
+src/test_joshgrantbucks
 .*.swp
 *.*~*
 *.bak
@@ -9,17 +9,17 @@ src/test_litecoin
 *.orig
 *.o
 *.patch
-.litecoin
+.joshgrantbucks
 
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-litecoin-qt
-Litecoin-Qt.app
+joshgrantbucks-qt
+Joshgrantbucks-Qt.app
 
 # Unit-tests
 Makefile.test
-litecoin-qt_test
+joshgrantbucks-qt_test
 
 # Resources cpp
 qrc_*.cpp
