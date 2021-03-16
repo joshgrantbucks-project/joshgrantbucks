@@ -4,7 +4,8 @@ Joshgrantbucks integration/staging tree
 http://www.joshgrantbucks.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Joshgrantbucks Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2021 Joshgrantbucks Developer
 
 What is Joshgrantbucks?
 ----------------
